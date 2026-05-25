@@ -20,7 +20,7 @@ decisions in fintech lending operations.
 
 ## Live Demo
 
-🔗 **[Launch Dashboard →](https://loan-portfolio-analytics.streamlit.app)**
+🔗 **[Launch Dashboard](https://loan-portfolio-analytics.streamlit.app)**
 
 ---
 
@@ -76,9 +76,9 @@ All customer names, loan IDs, and financial figures are entirely synthetic.
 
 This project demonstrates the data pipeline and dashboard engineering skills applied
 at a Nigerian fintech lending company, where I was responsible for building the
-organisation's entire data analytics capability from scratch — covering real-time
+organisation's entire data analytics capability from scratch, covering real-time
 loan portfolio monitoring, automated reporting, and data pipelines supporting a
-portfolio of approximately 60,000 active loans. Reporting that previously took up to
+portfolio of approximately 60,000+ active loans. Reporting that previously took up to
 24 hours was reduced to near-instant automated outputs.
 
 ---
